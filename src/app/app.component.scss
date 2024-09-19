@@ -1,0 +1,162 @@
+::ng-deep {
+  .square-up {
+    height: 20px;
+    width: 20px;
+    background-color: #198754;
+    border-radius: 10%;
+  }
+
+  .square-down {
+    height: 20px;
+    width: 20px;
+    background-color: #fa0108;
+    border-radius: 10%;
+  }
+
+  .square-total {
+    height: 20px;
+    width: 20px;
+    background-color: #f2f2f2;
+    border-radius: 10%;
+  }
+
+  .square-1 {
+    height: 20px;
+    width: 20px;
+    background-color: #ffb005;
+    border-radius: 10%;
+  }
+
+  .square-2 {
+    height: 20px;
+    width: 20px;
+    background-color: #d451e9;
+    border-radius: 10%;
+  }
+
+  .square-3 {
+    height: 20px;
+    width: 20px;
+    background-color: #0ca5d2;
+    border-radius: 10%;
+  }
+
+  .square-alarmas {
+    height: 12px;
+    width: 20px;
+    background-color: #bf8700;
+    border-radius: 10%;
+  }
+
+  .square-tickets {
+    height: 12px;
+    width: 20px;
+    background-color: #0969da;
+    border-radius: 10%;
+  }
+
+  .circle {
+    border: 1px solid #f2f2f2;
+    border-radius: 100%;
+    padding: 12px 20px;
+    background: #fff;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  }
+
+  .vCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .card {
+    background-color: #f3f3f3;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  }
+
+  .card-white {
+    background-color: #fff;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  }
+
+  .card-title {
+    border-bottom: 1px solid #e0e0e0;
+  }
+
+  .square-gray {
+    background-color: #f2f2f2;
+    font-size: smaller;
+  }
+
+  .text-bg-purple {
+    color: #fff !important;
+    background-color: #d451e9 !important;
+  }
+
+  .progress-purple {
+    --bs-progress-bar-bg: #d451e9;
+  }
+
+  .progress-blue {
+    --bs-progress-bar-bg: #0ca5d2 !important;
+  }
+
+  .progress {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px !important;
+  }
+
+  .text-bg-blue {
+    color: #fff !important;
+    background-color: #0ca5d2 !important;
+  }
+
+  .progress-yellow {
+    --bs-progress-bar-bg: #ffb005 !important;
+  }
+
+  .text-bg-yellow {
+    color: #000 !important;
+    background-color: #ffb005 !important;
+  }
+
+  .h-1200 {
+    max-height: 80vh !important;
+    overflow: auto;
+  }
+
+  .txt-clientes {
+    font-size: 0.7vw !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
+  }
+
+  .bb-1 {
+    border-bottom: #dbdada 1px solid;
+  }
+
+  .p-input-icon-left > .p-inputtext {
+    padding-left: 2.5rem;
+  }
+
+  .p-progress-spinner {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  .h-100vh {
+    height: 100vh !important;
+  }
+
+  .cursor-pointer {
+    cursor: pointer;
+  }
+
+  th {
+    background: #e2e2e2;
+  }
+  thead {
+    border-bottom: 1px solid;
+  }
+}
